@@ -1,0 +1,31 @@
+.person {
+	border: 1px solid #ccc;
+	padding: 20px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+	background-color: #f9f9f9;
+}
+
+.person__name {
+	font-size: 24px;
+	color: #333;
+	margin-bottom: 10px;
+}
+
+.person__occupation,
+.person__age,
+.person__salary {
+	font-size: 18px;
+	color: #666;
+	margin-bottom: 5px;
+}
+
+.container {
+	display: flex;
+	justify-content: space-between;
+}
+
+.container .people-list,
+.container .employees-list {
+	width: 48%;
+}

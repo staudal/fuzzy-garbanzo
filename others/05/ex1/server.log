@@ -1,0 +1,21 @@
+[2023-11-21T14:47:08.948] [INFO] server - GET /people was called
+[2023-11-21T14:47:27.041] [WARN] server - GET /people/:id was called with an invalid id
+[2023-11-21T14:48:13.530] [WARN] server - GET /people/:id was called with an invalid id
+[2023-11-21T14:48:18.644] [WARN] server - GET /people/:id was called with an invalid id
+[2023-11-21T14:56:24.788] [WARN] server - GET /people/:id was called with an invalid id
+[2023-11-21T14:56:27.207] [INFO] server - GET /people was called
+[2023-11-21T15:30:04.875] [INFO] server - GET /people was called
+[2023-11-21T15:34:00.576] [INFO] server - GET /people was called
+[2023-11-21T15:34:01.255] [INFO] server - GET /people was called
+[2023-11-21T15:34:01.258] [INFO] server - GET /people was called
+[2023-11-21T15:34:07.231] [INFO] server - GET /people was called
+[2023-11-21T15:36:24.649] [INFO] server - GET /people was called
+[2023-11-21T15:36:24.653] [INFO] server - GET /people was called[2023-11-21T15:37:07.518] [INFO] server - GET /people was called
+[2023-11-21T15:37:07.523] [INFO] server - GET /people was called
+[2023-11-21T15:37:18.688] [INFO] server - GET /people was called
+[2023-11-21T15:37:21.889] [INFO] server - GET /people was called
+[2023-11-21T15:37:21.895] [INFO] server - GET /people was called
+[2023-11-21T15:37:25.491] [INFO] server - GET /people was called
+[2023-11-21T15:37:49.538] [INFO] server - GET /people was called
+[2023-11-21T15:37:49.540] [INFO] server - GET /people was called
+[2023-11-21T15:37:53.789] [INFO] server - GET /people was called
